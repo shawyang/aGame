@@ -1,2 +1,2 @@
 # aGame
-a little game
+A small game.
